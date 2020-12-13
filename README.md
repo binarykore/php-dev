@@ -9,6 +9,7 @@
 
 * apt-get update -y --fix-missing
 * apt-get install php php-dev -y
+* apt-get install re2c bison -y
 
 ## Bash API / Build Number Locator
 
