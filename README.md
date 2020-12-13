@@ -5,6 +5,11 @@
 * Soon to be, Tools in Recognizing and Helping build PHP Extensions with API headers.
 * Usual PHP Zend Header Files are found at "/usr/include/php" or "usr/local/include/php".
 
+## How to Start?
+
+* apt-get update -y --fix-missing
+* apt-get install php php-dev -y
+
 ## Releases Page
 
 * https://github.com/binarykorra/php-dev/releases/
