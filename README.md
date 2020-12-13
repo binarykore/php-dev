@@ -28,6 +28,7 @@
 
 * Tested on PHP7.4.3
 * Soon will be, PHP8.0
+* Extensions Folder: "/usr/lib/php/php_api_number/" or "/usr/lib/php/"
 
 ## Copyright (2020)
 
