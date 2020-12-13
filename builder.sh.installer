@@ -1,0 +1,7 @@
+#!/bin/bash
+directory=hello_world
+prefix="$PWD/$directory"
+cd $(echo $prefix | tr -d '\r')
+phpize
+make
+make install
