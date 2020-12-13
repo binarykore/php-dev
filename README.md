@@ -19,6 +19,11 @@
 * This Tool eases up the use of One-Liner command, phpize then ./configure
 * Production-ready and Fully-tested, So code up' and use it properly
 
+## Demo, to test the Extension
+
+* php -dextension=hello.so -r "echo name('Abcd');"
+* php -dextension=hello.so -r "echo hello_world();"
+
 ## Copyright (2020)
 
 * Xin Snowflakes, 09225205353
