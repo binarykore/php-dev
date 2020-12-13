@@ -24,6 +24,11 @@
 * php -dextension=hello.so -r "echo name('Abcd');"
 * php -dextension=hello.so -r "echo hello_world();"
 
+## Notice
+
+* Tested on PHP7.4.3
+* Soon will be, PHP8.0
+
 ## Copyright (2020)
 
 * Xin Snowflakes, 09225205353
