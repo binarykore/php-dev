@@ -3,6 +3,10 @@
 * Tools in recognizing and building PHP Extensions with API definitions.
 * Usual PHP Zend Header Files are found at "/usr/include/php" or "usr/local/include/php".
 
+## Releases Page
+
+* https://github.com/binarykorra/php-dev/releases/
+
 ## API.sh
 
 * This Tool will help you recognize what PHP Version you are using currently.
