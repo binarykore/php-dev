@@ -14,6 +14,11 @@
 * Its currently being maintained by me, just change the Prefix for the PHP Location.
 * Then Edit the IncludeDir for the Folder which where the API No Headers, reside.
 
+## Bash PHP Extension's Builder
+
+* This Tool eases up the use of One-Liner command, phpize then ./configure
+* Production-ready and Fully-tested, So code up' and use it properly
+
 ## Copyright (2020)
 
 * Xin Snowflakes, 09225205353
