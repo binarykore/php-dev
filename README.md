@@ -10,10 +10,6 @@
 * apt-get update -y --fix-missing
 * apt-get install php php-dev -y
 
-## Releases Page
-
-* https://github.com/binarykorra/php-dev/releases/
-
 ## Bash API / Build Number Locator
 
 * This Tool will help you recognize what PHP Version you are using currently while building Extensions.
@@ -36,6 +32,10 @@
 * Tested on PHP7.4.3
 * Soon will be, PHP8.0
 * Extensions Folder: "/usr/lib/php/php_api_number/" or "/usr/lib/php/"
+
+## Releases Page
+
+* https://github.com/binarykorra/php-dev/releases/
 
 ## Copyright (2020)
 
