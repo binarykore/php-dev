@@ -21,8 +21,8 @@
 
 ## Bash PHP Extension's Builder
 
-* This Tool eases up the use of One-Liner command, phpize then ./configure
-* Production-ready and Fully-tested, So code up' and use it properly
+* This Tool eases up the use of One-Liner command, "phpize" then "./configure".
+* Production-ready and Fully-tested, So code up' and use it properly.
 
 ## Bash Maketest Extension Tester / Checker
 
