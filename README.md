@@ -23,6 +23,11 @@
 * This Tool eases up the use of One-Liner command, phpize then ./configure
 * Production-ready and Fully-tested, So code up' and use it properly
 
+## Bash Maketest Extension Tester / Checker
+
+* This Tool eases up the use of One-Liner Command, in testing the Functions of the PHP Extension.
+* Use either Bash or Sh (./maketest.sh.installer) in order to use the Tool and executing the Extension Functions.
+
 ## Demo, to test the Extension
 
 * php -dextension=hello.so -r "echo name('Abcd');"
