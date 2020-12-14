@@ -1,11 +1,17 @@
+# PHP Developer Tools
+
+* Soon to be, InfoSec Tools in Recognizing and Helping build/compiling PHP Extensions.
+* This is maintained by me, As an Open Source (FOSS) Dev-Kit for Building PHP Extensions.
+
+## Compatibility
+
+* Windows, Subsysem for Linux or WSL / WSL2 with Ubuntu Operating System
+* Ubuntu Operating System, with Repo from "https://launchpad.net/~ondrej/+archive/ubuntu/php"
+* Soon will be MacOSX
+
 ![Developer Tools](https://github.com/binarykorra/php-dev/blob/main/php_api.png?raw=true)
 ![Hello_World Function](https://github.com/binarykorra/php-dev/blob/main/make_test.png?raw=true)
 ![Name Function](https://github.com/binarykorra/php-dev/blob/main/name_function.png?raw=true)
-
-# PHP Developer Tools
-
-* Soon to be, Tools in Recognizing and Helping build PHP Extensions with API headers.
-* Usual PHP Zend Header Files are found at "/usr/include/php" or "usr/local/include/php".
 
 ## How to Start?
 
@@ -39,7 +45,8 @@
 
 * Tested on PHP7.4.3
 * Soon will be, PHP8.0
-* Extensions Folder: "/usr/lib/php/php_api_number/" or "/usr/lib/php/"
+* Extensions Folder: "/usr/lib/php/php_api_number/" or "/usr/lib/php/".
+* Usual PHP Zend Header Files are found at "/usr/include/php" or "usr/local/include/php".
 
 ## Releases Page
 
