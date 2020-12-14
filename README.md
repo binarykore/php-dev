@@ -1,4 +1,5 @@
 ![Developer Tools](https://github.com/binarykorra/php-dev/blob/main/php_api.png?raw=true)
+![Extension Checker](https://github.com/binarykorra/php-dev/blob/main/make_test.png?raw=true)
 
 # PHP Developer Tools
 
