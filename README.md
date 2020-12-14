@@ -43,10 +43,14 @@
 
 ## Notice
 
-* Tested on PHP7.4.3
-* Soon will be, PHP8.0
 * Extensions Folder: "/usr/lib/php/php_api_number/" or "/usr/lib/php/".
 * Usual PHP Zend Header Files are found at "/usr/include/php" or "usr/local/include/php".
+
+## Tested on the Following PHP Versions
+
+* Previous version: PHP5.5, using Git Checkout (quite old)
+* Tested on: PHP7.4.3
+* Soon will be: PHP8.0
 
 ## Releases Page
 
