@@ -1,5 +1,6 @@
 ![Developer Tools](https://github.com/binarykorra/php-dev/blob/main/php_api.png?raw=true)
-![Extension Checker](https://github.com/binarykorra/php-dev/blob/main/make_test.png?raw=true)
+![Hello_World Function](https://github.com/binarykorra/php-dev/blob/main/make_test.png?raw=true)
+![Name Function](https://github.com/binarykorra/php-dev/blob/main/name_function.png?raw=true)
 
 # PHP Developer Tools
 
