@@ -62,4 +62,4 @@
 
 ## Copyright (2020)
 
-* Xin Snowflakes, 09225205353
+* BinaryKorra, 09225205353
