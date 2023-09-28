@@ -62,4 +62,4 @@
 
 ## Copyright (2020)
 
-( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
