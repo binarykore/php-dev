@@ -54,7 +54,7 @@
 
 ## Releases Page
 
-* https://github.com/binarykorra/php-dev/releases/
+* https://github.com/binarykore/php-dev/releases/
 
 ## Sources Page
 
