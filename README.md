@@ -62,7 +62,7 @@
 
 #### Conversion Notice:
 
-* I will convert these instruction toolkits soon into binaries but feel free to use SHC (Shell to GCC or C) in your premise in order not to get the Syntax and Algorithms stolen..
+* I will convert these instruction toolkits soon into binaries but feel free to use SHC (Shell to GCC or C) in your own premise in order not to get the Syntax and Algorithms stolen..
 
 #### Copyright (2020)
 
