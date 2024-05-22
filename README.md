@@ -1,6 +1,6 @@
 #### PHP Developer Tools:
 
-* Soon to be, Information Security Tools in Recognizing and Helping build/compile PHP Extensions..
+* Soon to be, Information Security Tools in Recognizing and Helping build / compile PHP Extensions..
 * This is maintained by me, As an Open Source (FOSS) Dev-Kit for Building PHP Extensions..
 
 #### Compatibility:
