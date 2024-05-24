@@ -28,8 +28,8 @@
 
 #### Bash PHP Extension's Builder:
 
-* This Tool eases up the use of One-Liner command, "phpize" then "./configure".
-* Production-ready and Fully-tested, So code up' and use it properly..
+* This Tool eases up the use of One-Liner command, "phpize" then "./configure"..
+* Production-ready and fully-tested, So code up' and use it properly..
 
 #### Bash Maketest Extension Tester / Checker:
 
@@ -50,7 +50,7 @@
 
 * Previous version: PHP5.5, using Git Checkout (quite old)
 * Tested on: PHP7.4.3
-* Soon will be: PHP8.0
+* Soon will be: PHP8.0+
 
 #### Releases Page:
 
@@ -62,7 +62,7 @@
 
 #### Conversion Notice:
 
-* I will convert these instruction tool kits soon into Binaries but feel free to use SHC (Shell to GCC or C) in your own premise in order for the Syntax and Algorithms to not get stolen by anyhow, thieves, 3rd party devs and etc..
+* I will convert these instruction tool kits soon into Binaries but feel free to use SHC (Shell to GCC or C) or PS2Exe (Powershell to GCC or C, executable) in your own premise in order for the Syntax and Algorithms to not get stolen by anyhow, thieves, 3rd party devs and etc..
 
 #### Copyright (2020)
 
