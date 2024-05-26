@@ -62,7 +62,7 @@
 
 #### Conversion Notice:
 
-* I will convert these instruction tool kits soon into Binaries but feel free to use SHC (Shell to GCC or C) or PS2Exe (Powershell to GCC or C, executable) in your own premise in order for the Syntax and Algorithms to not get stolen by anyhow, thieves, 3rd party devs and etc..
+* I will convert these instruction tool kits soon into Binaries but feel free to use SHC (Shell to GCC or C) or PS2Exe (Powershell to GCC or C, executable) in your own premise in order for the Syntax and Algorithms to not get stolen by anyhow - thieves, 3rd party devs and etc..
 
 #### Copyright (2020)
 
